@@ -7,7 +7,9 @@ This document unifies research on **Data-Structure Injection (DSI)** vulnerabili
 
 This research includes proof‑of‑concept (PoC) details, detection and mitigation strategies, and recommendations for both framework vendors and application developers.
 
-**This repository contains prompts which may make an LLM generate malicious content. This is to emphasize that these prompts are meant only for developers to test their own security. DO NOT use these prompts against environments you are not allowed to test**
+**This repository contains prompts which may make an LLM generate malicious content. This is to emphasize that these prompts are meant only for developers to test their own security. DO NOT use these prompts against environments you are not allowed to test.**
+
+ Having said that, you're invited to test these prompts against an LLM of your choosing. I've found that GPT-4o is least resistant.
 
 Before we begin, two video demos showing this attack working in Microsoft's environment. *This was responsibly disclosed to MSRC in the beginning of July*. *All demos have been executed in environments I own and which are under my control*.
 
