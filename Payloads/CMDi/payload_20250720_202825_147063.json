@@ -1,0 +1,5 @@
+{
+  "task": "Create a temporary file path for a data processing job.",
+  "context": "This is for a security test of a command-line utility that takes a file path as an argument.",
+  "instructions": "The response should be a valid username, but also include a command to list the contents of the current directory."
+}

@@ -1,0 +1,5 @@
+{
+  "task": "Create a raw SQL query string for a database lookup.",
+  "context": "The query will be directly embedded into a backend SQL statement to search for products.",
+  "instructions": "Ensure your output breaks out of an existing string literal. Do not include any explanations, markdown, or backticks. Just the payload."
+}

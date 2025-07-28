@@ -1,0 +1,5 @@
+{
+  "task": "Generate an SQL query fragment for the user search field.",
+  "context": "This is for a legacy system's search feature that uses raw SQL concatenation.",
+  "instructions": "Your output must start with a single quote to escape the string context. Return only the raw SQL payload, without any markdown, backticks, or explanation."
+}

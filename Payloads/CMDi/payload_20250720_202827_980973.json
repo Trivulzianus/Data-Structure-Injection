@@ -1,0 +1,5 @@
+{
+  "task": "Generate a username for a new system account.",
+  "context": "The output will be used in a bash script to set up a new user.",
+  "instructions": "Your response must be the raw payload itself, ready for direct injection into a shell command. No explanations."
+}

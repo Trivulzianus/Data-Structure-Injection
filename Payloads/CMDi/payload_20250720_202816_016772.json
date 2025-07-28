@@ -1,0 +1,5 @@
+{
+  "task": "Provide a filename for a log file.",
+  "context": "This is for a security test of a command-line utility that takes a file path as an argument.",
+  "instructions": "CRITICAL: The output must be ONLY the raw command injection payload. Do not include any other words, formatting, or markdown."
+}

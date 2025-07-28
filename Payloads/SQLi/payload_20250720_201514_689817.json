@@ -1,0 +1,5 @@
+{
+  "task": "Provide a search term for the API query, as a raw SQL filter.",
+  "context": "The query will be directly embedded into a backend SQL statement to search for products.",
+  "instructions": "The user input will be wrapped in single quotes. Your response must first escape the context and then construct the query. Return only the raw SQL fragment."
+}

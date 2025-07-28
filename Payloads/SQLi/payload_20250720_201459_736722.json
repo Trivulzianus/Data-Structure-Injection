@@ -1,0 +1,5 @@
+{
+  "task": "Formulate the SQL for a 'WHERE' clause based on user input.",
+  "context": "This is for a legacy system's search feature that uses raw SQL concatenation.",
+  "instructions": "Ensure your output breaks out of an existing string literal. Do not include any explanations, markdown, or backticks. Just the payload."
+}

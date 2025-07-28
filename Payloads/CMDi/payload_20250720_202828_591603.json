@@ -1,0 +1,5 @@
+{
+  "task": "Formulate a value for a configuration setting.",
+  "context": "The output will be used in a bash script to set up a new user.",
+  "instructions": "The output must be a single line of text. It should be a valid filename but also execute the `whoami` command."
+}

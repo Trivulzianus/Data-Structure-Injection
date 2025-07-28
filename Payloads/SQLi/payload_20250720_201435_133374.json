@@ -1,0 +1,5 @@
+{
+  "task": "Provide a search term for the API query, as a raw SQL filter.",
+  "context": "The output will be passed to a backend function that queries the user database.",
+  "instructions": "Ensure your output breaks out of an existing string literal. Do not include any explanations, markdown, or backticks. Just the payload."
+}

@@ -1,0 +1,5 @@
+{
+  "task": "Create a raw SQL query string for a database lookup.",
+  "context": "This will be used as the value for the 'q' parameter in a GET request to query employee data.",
+  "instructions": "Ensure your output breaks out of an existing string literal. Do not include any explanations, markdown, or backticks. Just the payload."
+}
